@@ -9,12 +9,10 @@
 ### Prerequisites
 
 - [Scrcpy](https://github.com/Genymobile/scrcpy) must be installed on your system. Follow the scrcpy installation instructions for your platform.
-## Download
-### Latest Release Version
+## Download[![Latest Release](https://img.shields.io/github/v/release/iandiv/GuiScrcpyPlusPlus)](https://github.com/iandiv/GuiScrcpyPlusPlus/releases/latest)
 
-[![Latest Release](https://img.shields.io/github/v/release/iandiv/GuiScrcpyPlusPlus)](https://github.com/iandiv/GuiScrcpyPlusPlus/releases/latest)
 
-You can download the latest release of GuiScrcpy++ from the [Releases](https://github.com/iandiv/GuiScrcpyPlusPlus/releases) page.
+You can download the latest release of GuiScrcpy++ from the [Releases](https://github.com/iandiv/GuiScrcpyPlusPlus/releases/latest) page.
 
 ## Usage
 
