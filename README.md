@@ -2,7 +2,7 @@
 
 **GuiScrcpy++** is a graphical user interface for the [scrcpy](https://github.com/Genymobile/scrcpy) project, designed to enhance the user experience and simplify the use of scrcpy's powerful Android screen mirroring capabilities.
 
-![explorer_FYJC9EmmGZ](https://github.com/iandiv/GuiScrcpyPlusPlus/assets/28383248/884a908b-a8cf-4529-80f0-79eccaa8ea99)
+![explorer_FYJC9EmmGZ](https://github.com/iandiv/GuiScrcpyPlusPlus/assets/28383248/049c0162-f46f-49c7-a841-28ed4a4c981a)
 
 ## Getting Started
 
