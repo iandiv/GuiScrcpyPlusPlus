@@ -38,6 +38,19 @@ You can download the latest release of GuiScrcpy++ from the [Releases](https://g
 7. **Enjoy:**
    - Mirror and control your Android device from your computer.
 
+##  Dependecies
+
+
+### CustomComponent.dll
+
+1.The `CustomComponent.dll` is available in the [Dependencies](https://github.com/iandiv/GuiScrcpyPlusPlus/tree/master/Dependencies) folder. Download it from [here](https://github.com/iandiv/GuiScrcpyPlusPlus/tree/master/Dependencies).
+
+### WinBlur
+
+1. **NuGet Package**: WinBlur can be easily obtained from NuGet Packages.
+
+2. **GitHub Repository**: Alternatively, you can visit the [WinBlur GitHub repository](https://github.com/voidZiAD/WinBlur) for more information.
+
 
 ## License
 
